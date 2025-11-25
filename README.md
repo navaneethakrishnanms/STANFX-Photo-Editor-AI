@@ -82,9 +82,6 @@ npm run build
 
 The production-ready files will be in the `dist` folder.
 
-## 🔒 Security Note
-
-**IMPORTANT**: Never commit your `.env.local` file or expose your API keys publicly. The `.env.local` file is already included in `.gitignore` to prevent accidental commits.
 
 ## 📝 License
 
@@ -95,5 +92,3 @@ This project is for educational and personal use.
 Contributions, issues, and feature requests are welcome!
 
 ---
-
-Made with ❤️ using AI Studio
