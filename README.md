@@ -1,5 +1,7 @@
 # StanFX - Professional Image Editor with AI
 
+![StanFX Banner](image.png)
+
 A powerful web-based image editor with AI-powered features, built with React, TypeScript, and Vite.
 
 ## ✨ Features
